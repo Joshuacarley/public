@@ -1,4 +1,5 @@
-public
+Joshua Carley's Public Repo
 ======
 
-Public repo 
+This includes public odds and ends for development.  
+
